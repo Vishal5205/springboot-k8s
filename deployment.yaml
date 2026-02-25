@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: springboot
-        image: vishal1326/springboot-cicd:1
+        image: vishal1326/springboot-cicd:2
         ports:
         - containerPort: 8080
